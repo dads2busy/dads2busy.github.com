@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JR Tennert | Aaron D. Schroeder</title>
+    <link>/authors/jr-tennert/</link>
+      <atom:link href="/authors/jr-tennert/index.xml" rel="self" type="application/rss+xml" />
+    <description>JR Tennert</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 1999 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>JR Tennert</title>
+      <link>/authors/jr-tennert/</link>
+    </image>
+    
+    <item>
+      <title>Stakeholder analysis</title>
+      <link>/publication/tennert-1999-stakeholder/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/tennert-1999-stakeholder/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel H Weinberg | Aaron D. Schroeder</title>
+    <link>/authors/daniel-h-weinberg/</link>
+      <atom:link href="/authors/daniel-h-weinberg/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel H Weinberg</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Daniel H Weinberg</title>
+      <link>/authors/daniel-h-weinberg/</link>
+    </image>
+    
+    <item>
+      <title>Can Administrative Housing Data Replace Survey Data?</title>
+      <link>/publication/molfino-2017-can/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/molfino-2017-can/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

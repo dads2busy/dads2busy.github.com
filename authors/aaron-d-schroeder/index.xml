@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aaron D Schroeder | Aaron D. Schroeder</title>
+    <link>/authors/aaron-d-schroeder/</link>
+      <atom:link href="/authors/aaron-d-schroeder/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aaron D Schroeder</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Aaron D Schroeder</title>
+      <link>/authors/aaron-d-schroeder/</link>
+    </image>
+    
+    <item>
+      <title>Rapid Fire Talks</title>
+      <link>/publication/hirsch-2018-rapid/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/hirsch-2018-rapid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhanced Night Visibility Series, Volume II: Overview of Phase I and Development of Phase II Experimental Plan</title>
+      <link>/publication/dingus-2005-enhanced/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/dingus-2005-enhanced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigation of user stereotypes and preferences</title>
+      <link>/publication/neale-1999-investigation/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/neale-1999-investigation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

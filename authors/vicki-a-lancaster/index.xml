@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vicki A Lancaster | Aaron D. Schroeder</title>
+    <link>/authors/vicki-a-lancaster/</link>
+      <atom:link href="/authors/vicki-a-lancaster/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vicki A Lancaster</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Vicki A Lancaster</title>
+      <link>/authors/vicki-a-lancaster/</link>
+    </image>
+    
+    <item>
+      <title>Leveraging US Army Administrative Data for Individual and Team Performance</title>
+      <link>/publication/goldstein-2018-leveraging/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/goldstein-2018-leveraging/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

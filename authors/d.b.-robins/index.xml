@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D.B. Robins | Aaron D. Schroeder</title>
+    <link>/authors/d.b.-robins/</link>
+      <atom:link href="/authors/d.b.-robins/index.xml" rel="self" type="application/rss+xml" />
+    <description>D.B. Robins</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2000 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>D.B. Robins</title>
+      <link>/authors/d.b.-robins/</link>
+    </image>
+    
+    <item>
+      <title>Network organizational development in the public sector: A case study of the Federal Emergency Management Administration (FEMA)</title>
+      <link>/publication/schroeder-2000/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/schroeder-2000/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

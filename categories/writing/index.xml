@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>writing | Aaron D. Schroeder</title>
+    <link>/categories/writing/</link>
+      <atom:link href="/categories/writing/index.xml" rel="self" type="application/rss+xml" />
+    <description>writing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>writing</title>
+      <link>/categories/writing/</link>
+    </image>
+    
+    <item>
+      <title>To Politicize is Not to Control</title>
+      <link>/post/to-politicize-is-not-to-control/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/post/to-politicize-is-not-to-control/</guid>
+      <description>
+
+
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

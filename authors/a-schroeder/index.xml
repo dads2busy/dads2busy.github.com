@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Schroeder | Aaron D. Schroeder</title>
+    <link>/authors/a-schroeder/</link>
+      <atom:link href="/authors/a-schroeder/index.xml" rel="self" type="application/rss+xml" />
+    <description>A Schroeder</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>A Schroeder</title>
+      <link>/authors/a-schroeder/</link>
+    </image>
+    
+    <item>
+      <title>SERIAL WIRELESS LANS ALONG DOT ROW</title>
+      <link>/publication/amanna-2004-serial/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/amanna-2004-serial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

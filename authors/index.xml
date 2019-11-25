@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,19 +15,814 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;h3&gt;Aaron D. Schroeder, Ph.D.&lt;/h3&gt;
+          &lt;span style=&#34;font-weight: bold&#34;&gt;Research Associate Professor&lt;/span&gt;
+          &lt;br /&gt;
+            &lt;a href=&#34;https://www.bi.vt.edu/sdal&#34;&gt;Social &amp;amp; Decision Analytics Division&lt;/a&gt;, &lt;a href=&#34;https://www.bi.vt.edu/&#34;&gt;University of Virginia Biocomplexity Institute &amp;amp; Initiative&lt;/a&gt;
+          &lt;br /&gt;
+            &lt;a href=&#34;mailto:aaron.schroeder@vt.edu&#34;&gt;aaron.schroeder@virginia.edu&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;
+        &lt;/span&gt;
+        &lt;p class=&#34;biosketch&#34;&gt;
+            Dr. Schroeder&amp;rsquo;s overarching research focus is the enablement of Evidence-Based Policy-Making and Program Evaluation through the Secure Liberation, Integration and Analysis of Administrative Data.
+        &lt;/p&gt;
+        &lt;p class=&#34;biosketch&#34;&gt;
+            Dr. Schroeder has extensive experience in the technologies and related policies of information/data integration and systems analysis, policy and program development and implementation, quantitative and qualitative methodologies of evaluation, and the general application of data and web technologies to the enhancement of public and private sector services.
+        &lt;/p&gt;
+          &lt;p class=&#34;biosketch&#34;&gt;
+            A particular focus of Dr. Schroeder&amp;rsquo;s research has been on the integration and analysis of education, health, social service and non-profit administrative data streams for the purpose of conducting policy analyses and program evaluations impacting a wide range of constituents, including: pre-K child social and health service recipients; child care service operators; primary, secondary, post-secondary and adult education service recipients; state workforce training service recipients; and, U.S. veteran health and social service recipients.
+        &lt;/p&gt;
+        &lt;p class=&#34;biosketch&#34;&gt;
+          High-profile information integration projects in the Commonwealth of Virginia include
+          the USED-funded Statewide Longitudinal
+          Data System, the USHHS-funded Project Child HANDS, and the USDOT-funded design, development, deployment, and evaluation of the U.S.’s first statewide travel information
+          system, Virginia 511.
+          &lt;/p&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Robert Ford</title>
-      <link>/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/robert-ford/</guid>
+      <title>Aaron Schroeder</title>
+      <link>/authors/aaron-schroeder/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/aaron-schroeder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dave Higdon</title>
+      <link>/authors/dave-higdon/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/dave-higdon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ian Crandell</title>
+      <link>/authors/ian-crandell/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/ian-crandell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael-dharma Irwin</title>
+      <link>/authors/michael-dharma-irwin/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/michael-dharma-irwin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> others</title>
+      <link>/authors/others/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/others/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Schroeder</title>
+      <link>/authors/a.-schroeder/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-schroeder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aaron D Schroeder</title>
+      <link>/authors/aaron-d-schroeder/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/aaron-d-schroeder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrea Mayfield</title>
+      <link>/authors/andrea-mayfield/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/andrea-mayfield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B. Pires</title>
+      <link>/authors/b.-pires/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/b.-pires/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Barry Steinberg</title>
+      <link>/authors/barry-steinberg/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/barry-steinberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benoit Dostie</title>
+      <link>/authors/benoit-dostie/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/benoit-dostie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bianica Pires</title>
+      <link>/authors/bianica-pires/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/bianica-pires/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brittany Borg</title>
+      <link>/authors/brittany-borg/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/brittany-borg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christian Hirsch</title>
+      <link>/authors/christian-hirsch/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/christian-hirsch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Chen</title>
+      <link>/authors/daniel-chen/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/daniel-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Higdon</title>
+      <link>/authors/david-higdon/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/david-higdon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emily Molfino</title>
+      <link>/authors/emily-molfino/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/emily-molfino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gizem Korkmaz</title>
+      <link>/authors/gizem-korkmaz/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/gizem-korkmaz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I. Crandell</title>
+      <link>/authors/i.-crandell/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/i.-crandell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joel Thurston</title>
+      <link>/authors/joel-thurston/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/joel-thurston/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joshua Goldstein</title>
+      <link>/authors/joshua-goldstein/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/joshua-goldstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kelly S Ervin</title>
+      <link>/authors/kelly-s-ervin/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/kelly-s-ervin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lars Vilhuber</title>
+      <link>/authors/lars-vilhuber/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/lars-vilhuber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Arnsbarger</title>
+      <link>/authors/m.-arnsbarger/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-arnsbarger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Lenczner</title>
+      <link>/authors/michael-lenczner/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/michael-lenczner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nathaniel J Ratcliff</title>
+      <link>/authors/nathaniel-j-ratcliff/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/nathaniel-j-ratcliff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nikolas Pharris-Ciurej</title>
+      <link>/authors/nikolas-pharris-ciurej/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/nikolas-pharris-ciurej/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Robinson</title>
+      <link>/authors/p.-robinson/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/p.-robinson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Keller</title>
+      <link>/authors/s.-keller/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/s.-keller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Shipp</title>
+      <link>/authors/s.-shipp/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/s.-shipp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sallie Keller</title>
+      <link>/authors/sallie-keller/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/sallie-keller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarah Strochak</title>
+      <link>/authors/sarah-strochak/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/sarah-strochak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephanie Shipp</title>
+      <link>/authors/stephanie-shipp/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/stephanie-shipp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. Lancaster</title>
+      <link>/authors/v.-lancaster/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/v.-lancaster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vicki A Lancaster</title>
+      <link>/authors/vicki-a-lancaster/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/vicki-a-lancaster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vicki Lancaster</title>
+      <link>/authors/vicki-lancaster/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/vicki-lancaster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W. Kang</title>
+      <link>/authors/w.-kang/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/w.-kang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark Orr</title>
+      <link>/authors/mark-orr/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/mark-orr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel H Weinberg</title>
+      <link>/authors/daniel-h-weinberg/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/daniel-h-weinberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sallie A Keller</title>
+      <link>/authors/sallie-a-keller/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/sallie-a-keller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D.D. &amp; Molfino, E. Schroeder</title>
+      <link>/authors/d.d.-molfino-e.-schroeder/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/d.d.-molfino-e.-schroeder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S.A. Keller</title>
+      <link>/authors/s.a.-keller/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/s.a.-keller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shipp S., Orr M., Higdon D., Korkmaz G., Schroeder A.D., Molfino, E., Pires, B., Ziemer, K. Keller S.</title>
+      <link>/authors/shipp-s.-orr-m.-higdon-d.-korkmaz-g.-schroeder-a.d.-molfino-e.-pires-b.-ziemer-k.-keller-s./</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/shipp-s.-orr-m.-higdon-d.-korkmaz-g.-schroeder-a.d.-molfino-e.-pires-b.-ziemer-k.-keller-s./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weinberg D.</title>
+      <link>/authors/weinberg-d./</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/weinberg-d./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bryan Lewis</title>
+      <link>/authors/bryan-lewis/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/bryan-lewis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Katherine Ensor</title>
+      <link>/authors/katherine-ensor/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/katherine-ensor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A.D. Schroeder</title>
+      <link>/authors/a.d.-schroeder/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/authors/a.d.-schroeder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AD Schroeder</title>
+      <link>/authors/ad-schroeder/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/authors/ad-schroeder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diana Tester</title>
+      <link>/authors/diana-tester/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/authors/diana-tester/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isabel Bradburn</title>
+      <link>/authors/isabel-bradburn/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/authors/isabel-bradburn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John V Spears</title>
+      <link>/authors/john-v-spears/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/authors/john-v-spears/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicole Forry</title>
+      <link>/authors/nicole-forry/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/authors/nicole-forry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>George Still</title>
+      <link>/authors/george-still/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/authors/george-still/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nancy White</title>
+      <link>/authors/nancy-white/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/authors/nancy-white/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Sforza</title>
+      <link>/authors/peter-sforza/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/authors/peter-sforza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Susan M Willis-Walton</title>
+      <link>/authors/susan-m-willis-walton/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/authors/susan-m-willis-walton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas Dickerson</title>
+      <link>/authors/thomas-dickerson/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/authors/thomas-dickerson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A.D. &amp; Bradburn, I. Schroeder</title>
+      <link>/authors/a.d.-bradburn-i.-schroeder/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/authors/a.d.-bradburn-i.-schroeder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S.E. Jarrott</title>
+      <link>/authors/s.e.-jarrott/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/authors/s.e.-jarrott/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carole J Simmons</title>
+      <link>/authors/carole-j-simmons/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/authors/carole-j-simmons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gary R Allen</title>
+      <link>/authors/gary-r-allen/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/authors/gary-r-allen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>James S Gillespie</title>
+      <link>/authors/james-s-gillespie/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/authors/james-s-gillespie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Myra Blanco</title>
+      <link>/authors/myra-blanco/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/authors/myra-blanco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen C Brich</title>
+      <link>/authors/stephen-c-brich/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/authors/stephen-c-brich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas A Dingus</title>
+      <link>/authors/thomas-a-dingus/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/authors/thomas-a-dingus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas Schnell</title>
+      <link>/authors/thomas-schnell/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/authors/thomas-schnell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracey Talley Schroeder</title>
+      <link>/authors/tracey-talley-schroeder/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/authors/tracey-talley-schroeder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vicki L Neale</title>
+      <link>/authors/vicki-l-neale/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/authors/vicki-l-neale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ashwin Amanna</title>
+      <link>/authors/ashwin-amanna/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/authors/ashwin-amanna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schroeder AD. Amanna A</title>
+      <link>/authors/schroeder-ad.-amanna-a/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/authors/schroeder-ad.-amanna-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A.D. Amanna, A. Schroeder</title>
+      <link>/authors/a.d.-amanna-a.-schroeder/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/authors/a.d.-amanna-a.-schroeder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A.D. Laskowski, K. Schroeder</title>
+      <link>/authors/a.d.-laskowski-k.-schroeder/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/authors/a.d.-laskowski-k.-schroeder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G., Schroeder, A.D. Bergoffen</title>
+      <link>/authors/g.-schroeder-a.d.-bergoffen/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/authors/g.-schroeder-a.d.-bergoffen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hesham Rakha</title>
+      <link>/authors/hesham-rakha/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/authors/hesham-rakha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kathy Laskowski</title>
+      <link>/authors/kathy-laskowski/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/authors/kathy-laskowski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. Swan</title>
+      <link>/authors/n.-swan/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/authors/n.-swan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rewa Hintz</title>
+      <link>/authors/rewa-hintz/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/authors/rewa-hintz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Schroeder, A.D., Rakha, H. Hintz, R. Baker</title>
+      <link>/authors/s.-schroeder-a.d.-rakha-h.-hintz-r.-baker/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/authors/s.-schroeder-a.d.-rakha-h.-hintz-r.-baker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephanie Baker</title>
+      <link>/authors/stephanie-baker/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/authors/stephanie-baker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Hales</title>
+      <link>/authors/r.-hales/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/authors/r.-hales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Baker</title>
+      <link>/authors/s.-baker/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/authors/s.-baker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gary Wamsley</title>
+      <link>/authors/gary-wamsley/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/authors/gary-wamsley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Hintz</title>
+      <link>/authors/r.-hintz/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/authors/r.-hintz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Ward</title>
+      <link>/authors/robert-ward/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/authors/robert-ward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D.B. Robins</title>
+      <link>/authors/d.b.-robins/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>/authors/d.b.-robins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Wamsley</title>
+      <link>/authors/g.-wamsley/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>/authors/g.-wamsley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Ward</title>
+      <link>/authors/r.-ward/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>/authors/r.-ward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JR Tennert</title>
+      <link>/authors/jr-tennert/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>/authors/jr-tennert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Reinach</title>
+      <link>/authors/s-reinach/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>/authors/s-reinach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Zellers</title>
+      <link>/authors/s-zellers/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>/authors/s-zellers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steven Reinach</title>
+      <link>/authors/steven-reinach/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>/authors/steven-reinach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steven Zellers</title>
+      <link>/authors/steven-zellers/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>/authors/steven-zellers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Th A Dingus</title>
+      <link>/authors/th-a-dingus/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>/authors/th-a-dingus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VL Neale</title>
+      <link>/authors/vl-neale/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>/authors/vl-neale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dingus, T.A., Schroeder, A.D. Neale. V.L.</title>
+      <link>/authors/dingus-t.a.-schroeder-a.d.-neale.-v.l./</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>/authors/dingus-t.a.-schroeder-a.d.-neale.-v.l./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. L., Dingus, T. A., Schroeder, A. D., Zellers, S., &amp; Reinach, S. Neale</title>
+      <link>/authors/v.-l.-dingus-t.-a.-schroeder-a.-d.-zellers-s.-reinach-s.-neale/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>/authors/v.-l.-dingus-t.-a.-schroeder-a.-d.-zellers-s.-reinach-s.-neale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G.L. Wamsley</title>
+      <link>/authors/g.l.-wamsley/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>/authors/g.l.-wamsley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L.M. Lane</title>
+      <link>/authors/l.m.-lane/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>/authors/l.m.-lane/</guid>
       <description></description>
     </item>
     

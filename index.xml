@@ -118,6 +118,18 @@
     </item>
     
     <item>
+      <title>To Politicize is Not to Control</title>
+      <link>/post/to-politicize-is-not-to-control/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/post/to-politicize-is-not-to-control/</guid>
+      <description>
+
+
+
+</description>
+    </item>
+    
+    <item>
       <title>Writing technical content in Academic</title>
       <link>/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
@@ -325,21 +337,6 @@ gantt
 &lt;/aside&gt;
 
 &lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example preprint / working paper</title>
-      <link>/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -592,6 +589,14 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Record Linkage Reconciliation of Arlington Department of Human Services Administrative Data Using Potts Models</title>
+      <link>/publication/crandell-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/crandell-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Privacy Policy</title>
       <link>/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
@@ -607,6 +612,62 @@ $$&lt;/p&gt;
       <guid>/terms/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Harnessing the power of data to support community-based research</title>
+      <link>/publication/keller-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/keller-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging US Army Administrative Data for Individual and Team Performance</title>
+      <link>/publication/goldstein-2018-leveraging/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/goldstein-2018-leveraging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting postsecondary trajectories in Virginia high schools using publicly available data</title>
+      <link>/publication/schroeder-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/schroeder-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapid Fire Talks</title>
+      <link>/publication/hirsch-2018-rapid/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/hirsch-2018-rapid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Evolution of Data Quality: Understanding the Transdisciplinary Origins of Data Quality Concepts and Approaches</title>
+      <link>/publication/keller-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/keller-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can Administrative Housing Data Replace Survey Data?</title>
+      <link>/publication/molfino-2017-can/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/molfino-2017-can/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Innovation Expert Panelist, Actionable Intelligence for Social Policy panel on best practices in the IDS field related to governance, legal issues, technology and security, and data standards.</title>
+      <link>/talk/aaron-schroeder-55285474/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/talk/aaron-schroeder-55285474/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -755,24 +816,27 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Does Big Data Change the Privacy Landscape? A Review of the Issues</title>
+      <link>/publication/schroeder-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/schroeder-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging External Data Sources to Enhance Official Statistics and Products. U.S. Census Bureau. Arlington, VA.</title>
+      <link>/publication/aaron-schroeder-55240649/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55240649/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virginia Department of Emergency Management’s Changing Information Requirements and Recommendations. </title>
+      <link>/publication/aaron-schroeder-55279029/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55279029/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -826,24 +890,475 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Data - The New Asset Class. April 6. HPC Day, Virginia Tech</title>
+      <link>/talk/aaron-schroeder-55285873/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/talk/aaron-schroeder-55285873/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an in silico Experimental Platform for Air Quality: Houston, TX as a Case Study</title>
+      <link>/publication/pires-2015-towards/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/pires-2015-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building Data Sharing Infrastructures: Taking Context and Stakeholders Seriously.</title>
+      <link>/talk/aaron-schroeder-55286617/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/talk/aaron-schroeder-55286617/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VT-VLDS Identity Resolution and Query Execution Process Overview.</title>
+      <link>/publication/aaron-schroeder-55279421/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55279421/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VT-VLDS Shaker Specifications.</title>
+      <link>/publication/aaron-schroeder-55279215/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55279215/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New data on child care subsidy programs</title>
+      <link>/publication/spears-2012-new/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/spears-2012-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pad and Chaff: Secure approximate string matching in private record linkage</title>
+      <link>/publication/schroeder-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/schroeder-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VT-VLDS Data Adapter User Guide.</title>
+      <link>/publication/aaron-schroeder-55279988/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55279988/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VT-VLDS Lexicon Metadata Tool Design.</title>
+      <link>/publication/aaron-schroeder-55279788/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55279788/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VT-VLDS Lexicon Specifications.</title>
+      <link>/publication/aaron-schroeder-55279469/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55279469/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association between perceived university environment and physical activity in college students.</title>
+      <link>/publication/aaron-schroeder-55239464/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55239464/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2010 USHHS Child Care Policy Research Consortium (CCPRC)</title>
+      <link>/publication/aaron-schroeder-55460810/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55460810/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Agency Integration of Child Relevant Data Sets in the Commonwealth of Virginia: Application of a Privacy Protecting Federated Model.</title>
+      <link>/publication/aaron-schroeder-55460579/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55460579/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>National Institute of Statistical Sciences/Education Statistics Services Institute Working Group on Research Use of State Longitudinal Data Systems.</title>
+      <link>/publication/aaron-schroeder-55288527/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55288527/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Report to the Virginia Department of Veterans Services Virginia Wounded Warrior Program: Assessing the Experiences, Supportive Service Needs and Service Gaps of Veterans in the Commonwealth of Virginia Final Report</title>
+      <link>/publication/still-2010-report/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/still-2010-report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building Child Care Data Capacity for the Commonwealth of Virginia: Initial Phase of Project Child HANDS.</title>
+      <link>/talk/aaron-schroeder-55549073/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/talk/aaron-schroeder-55549073/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of a Classification System for Quality Initiative (QI) Activities Reported by Local Social Service Agencies in Virginia.</title>
+      <link>/publication/aaron-schroeder-55280220/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55280220/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local School Division Student Assessments at Kindergarten Enrollment and During Kindergarten: Current Practices Across Virginia.</title>
+      <link>/publication/aaron-schroeder-55280047/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55280047/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presentation: Child Care Policy Research Consortium Annual Meeting</title>
+      <link>/talk/aaron-schroeder-55548939/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/talk/aaron-schroeder-55548939/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virginia’s Local Social Service Agencies: Child Care Quality, Improvement, Subsidy Data, and What Would be Most Useful in an Early Childhood Data System.</title>
+      <link>/publication/aaron-schroeder-55280075/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55280075/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saving Dollars While Making Sense: An Analysis Comparing Operational Costs of Intergenerational Shared Site Facilities.</title>
+      <link>/publication/aaron-schroeder-55280319/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55280319/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>511 Virginia Email Alert System.</title>
+      <link>/publication/aaron-schroeder-55280560/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55280560/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regional pedestrian activity measurement.</title>
+      <link>/publication/aaron-schroeder-55280699/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55280699/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Route 460 Wireless Network.</title>
+      <link>/publication/aaron-schroeder-55280655/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55280655/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wireless Testing Protocols.</title>
+      <link>/publication/aaron-schroeder-55280612/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55280612/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhanced Night Visibility Series, Volume II: Overview of Phase I and Development of Phase II - Experimental Plan.</title>
+      <link>/publication/aaron-schroeder-55280816/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55280816/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhanced Night Visibility Series, Volume II: Overview of Phase I and Development of Phase II Experimental Plan</title>
+      <link>/publication/dingus-2005-enhanced/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/dingus-2005-enhanced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IP Wireless Networks for Digital Video and Data along Highway Right Of Way</title>
+      <link>/publication/amanna-2004-ip/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/amanna-2004-ip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serial wireless IP networks for DOT applications</title>
+      <link>/publication/aaron-schroeder-55281118/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55281118/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serial wireless IP networks for DOT applications</title>
+      <link>/publication/amanna-2004-serial/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/amanna-2004-serial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of the Truck Fleet Support Program.</title>
+      <link>/publication/aaron-schroeder-55281221/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55281221/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I-81 ITS program evaluation framework</title>
+      <link>/publication/baker-200381/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/baker-200381/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I-81 ITS Program Evaluation Framework.</title>
+      <link>/publication/aaron-schroeder-55281167/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55281167/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I-81 Video System Design and Implementation.</title>
+      <link>/publication/aaron-schroeder-55281284/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55281284/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presentation: Rural Advanced Traveler Information Systems Conference, Tampa Bay, FL.</title>
+      <link>/talk/aaron-schroeder-55549315/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/talk/aaron-schroeder-55549315/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transportation Data Clearinghouse</title>
+      <link>/publication/aaron-schroeder-55281344/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55281344/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transportation data clearinghouse</title>
+      <link>/publication/schroeder-2003-transportation/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/schroeder-2003-transportation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel Virginia.</title>
+      <link>/publication/aaron-schroeder-55281258/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55281258/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop: Intelligent Transportation Systems of Virginia Annual Conference. </title>
+      <link>/talk/aaron-schroeder-55549380/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/talk/aaron-schroeder-55549380/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Case Study Evaluation of the Virginia Department of Transportation’s I-81 ITS Program.</title>
+      <link>/publication/aaron-schroeder-55281373/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55281373/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extension of “Travel Shenandoah” North to Harrisburg, Pennsylvania: Historical Development and Lessons Learned.</title>
+      <link>/publication/aaron-schroeder-55281427/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55281427/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building Implementation Networks: Building Multi-organizational, Multi-sector Structures for Policy Implementation</title>
+      <link>/publication/aaron-schroeder-52338562/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-52338562/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The evolution of emergency management in America: From a painful past to a promising but uncertain future</title>
+      <link>/publication/schroeder-2001-evolution/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/schroeder-2001-evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TravelShenandoah.Com Market Definitions: A Plan to Increase Users.</title>
+      <link>/publication/aaron-schroeder-55281633/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55281633/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network organizational development in the public sector: A case study of the Federal Emergency Management Administration (FEMA)</title>
+      <link>/publication/schroeder-2000/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/schroeder-2000/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presentation: Technology in Public Administration Conference, University of LaVerne, California.</title>
+      <link>/talk/aaron-schroeder-55549394/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>/talk/aaron-schroeder-55549394/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Evolution of Emergency Management in America: From a Painful Past to a Promising but Uncertain Future. Handbook of Emergency Management. Ed. Ali Farazmand. Marcel-Dekker: New York. </title>
+      <link>/publication/aaron-schroeder-55460107/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55460107/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel Virginia: A Statewide System of Public-Private Partnerships for ATIS Deployment.</title>
+      <link>/publication/aaron-schroeder-55281794/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55281794/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of human factors guidelines for advanced traveler information systems (ATIS) and commercial vehicle operations (CVO): Investigation of user stereotypes and preferences</title>
+      <link>/publication/neale-1999-development/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/neale-1999-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigation of user stereotypes and preferences</title>
+      <link>/publication/neale-1999-investigation/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/neale-1999-investigation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stakeholder analysis</title>
+      <link>/publication/tennert-1999-stakeholder/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/tennert-1999-stakeholder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel Information Data Clearinghouse and Management System. Copyright: Virginia Polytechnic Institute and State University.</title>
+      <link>/publication/aaron-schroeder-55550858/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55550858/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web-Based Dynamic Ride Request, Assignment, and Tracking System. Copyright: Virginia Polytechnic Institute and State University.</title>
+      <link>/publication/aaron-schroeder-55550908/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55550908/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advanced Traveler Information Systems and Commercial Vehicle Operations Components of the Intelligent Transportation Systems: Investigation of User Stereotype and Preferences.</title>
+      <link>/publication/aaron-schroeder-55281899/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55281899/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of Human Factors Guidelines for Advanced Traveler Information Systems and Commercial Vehicle Operations: Advanced Traveler Information System Feature Standardization.</title>
+      <link>/publication/aaron-schroeder-55282083/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55282083/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Live with Chaos: A Case for the Dissipative Structure Metaphor in Policy Subsystem Analysis. </title>
+      <link>/publication/aaron-schroeder-55549629/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55549629/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To Politicize Is Not to Control: The Pathologies of Control in Federal Emergency Management</title>
+      <link>/publication/schroeder-1996/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>/publication/schroeder-1996/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Political Roots of Hating Government.</title>
+      <link>/publication/aaron-schroeder-55551068/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55551068/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Policy Subsystems and the New Physics: Policy Development and Implementation at the Edge of Chaos.</title>
+      <link>/publication/aaron-schroeder-55550709/</link>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55550709/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ashwin Amanna | Aaron D. Schroeder</title>
+    <link>/authors/ashwin-amanna/</link>
+      <atom:link href="/authors/ashwin-amanna/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ashwin Amanna</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Ashwin Amanna</title>
+      <link>/authors/ashwin-amanna/</link>
+    </image>
+    
+    <item>
+      <title>IP Wireless Networks for Digital Video and Data along Highway Right Of Way</title>
+      <link>/publication/amanna-2004-ip/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/amanna-2004-ip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serial wireless IP networks for DOT applications</title>
+      <link>/publication/amanna-2004-serial/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/amanna-2004-serial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

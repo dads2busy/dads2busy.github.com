@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Schroeder | Aaron D. Schroeder</title>
+    <link>/authors/a.-schroeder/</link>
+      <atom:link href="/authors/a.-schroeder/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Schroeder</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>A. Schroeder</title>
+      <link>/authors/a.-schroeder/</link>
+    </image>
+    
+    <item>
+      <title>Predicting postsecondary trajectories in Virginia high schools using publicly available data</title>
+      <link>/publication/schroeder-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/schroeder-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does Big Data Change the Privacy Landscape? A Review of the Issues</title>
+      <link>/publication/schroeder-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/schroeder-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network organizational development in the public sector: A case study of the Federal Emergency Management Administration (FEMA)</title>
+      <link>/publication/schroeder-2000/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/schroeder-2000/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

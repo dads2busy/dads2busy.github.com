@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S.E. Jarrott | Aaron D. Schroeder</title>
+    <link>/authors/s.e.-jarrott/</link>
+      <atom:link href="/authors/s.e.-jarrott/index.xml" rel="self" type="application/rss+xml" />
+    <description>S.E. Jarrott</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>S.E. Jarrott</title>
+      <link>/authors/s.e.-jarrott/</link>
+    </image>
+    
+    <item>
+      <title>Saving Dollars While Making Sense: An Analysis Comparing Operational Costs of Intergenerational Shared Site Facilities.</title>
+      <link>/publication/aaron-schroeder-55280319/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55280319/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

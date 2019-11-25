@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Korkmaz | Aaron D. Schroeder</title>
+    <link>/authors/g.-korkmaz/</link>
+      <atom:link href="/authors/g.-korkmaz/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Korkmaz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>G. Korkmaz</title>
+      <link>/authors/g.-korkmaz/</link>
+    </image>
+    
+    <item>
+      <title>Estimating individualized exposure impacts from ambient ozone levels: A synthetic information approach</title>
+      <link>/publication/schroeder-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/schroeder-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

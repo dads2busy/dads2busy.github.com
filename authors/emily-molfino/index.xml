@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emily Molfino | Aaron D. Schroeder</title>
+    <link>/authors/emily-molfino/</link>
+      <atom:link href="/authors/emily-molfino/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emily Molfino</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Emily Molfino</title>
+      <link>/authors/emily-molfino/</link>
+    </image>
+    
+    <item>
+      <title>Harnessing the power of data to support community-based research</title>
+      <link>/publication/keller-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/keller-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can Administrative Housing Data Replace Survey Data?</title>
+      <link>/publication/molfino-2017-can/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/molfino-2017-can/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AD Schroeder | Aaron D. Schroeder</title>
+    <link>/authors/ad-schroeder/</link>
+      <atom:link href="/authors/ad-schroeder/index.xml" rel="self" type="application/rss+xml" />
+    <description>AD Schroeder</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>AD Schroeder</title>
+      <link>/authors/ad-schroeder/</link>
+    </image>
+    
+    <item>
+      <title>New data on child care subsidy programs</title>
+      <link>/publication/spears-2012-new/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/spears-2012-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of human factors guidelines for advanced traveler information systems (ATIS) and commercial vehicle operations (CVO): Investigation of user stereotypes and preferences</title>
+      <link>/publication/neale-1999-development/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/neale-1999-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stakeholder analysis</title>
+      <link>/publication/tennert-1999-stakeholder/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/tennert-1999-stakeholder/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

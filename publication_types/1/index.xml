@@ -5,7 +5,7 @@
     <link>/publication_types/1/</link>
       <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>1</title>
@@ -13,24 +13,59 @@
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Towards an in silico Experimental Platform for Air Quality: Houston, TX as a Case Study</title>
+      <link>/publication/pires-2015-towards/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/pires-2015-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association between perceived university environment and physical activity in college students.</title>
+      <link>/publication/aaron-schroeder-55239464/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55239464/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IP Wireless Networks for Digital Video and Data along Highway Right Of Way</title>
+      <link>/publication/amanna-2004-ip/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/amanna-2004-ip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serial wireless IP networks for DOT applications</title>
+      <link>/publication/amanna-2004-serial/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/amanna-2004-serial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stakeholder analysis</title>
+      <link>/publication/tennert-1999-stakeholder/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/tennert-1999-stakeholder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Live with Chaos: A Case for the Dissipative Structure Metaphor in Policy Subsystem Analysis. </title>
+      <link>/publication/aaron-schroeder-55549629/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55549629/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Policy Subsystems and the New Physics: Policy Development and Implementation at the Edge of Chaos.</title>
+      <link>/publication/aaron-schroeder-55550709/</link>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55550709/</guid>
+      <description></description>
     </item>
     
   </channel>

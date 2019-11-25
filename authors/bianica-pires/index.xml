@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bianica Pires | Aaron D. Schroeder</title>
+    <link>/authors/bianica-pires/</link>
+      <atom:link href="/authors/bianica-pires/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bianica Pires</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Bianica Pires</title>
+      <link>/authors/bianica-pires/</link>
+    </image>
+    
+    <item>
+      <title>Harnessing the power of data to support community-based research</title>
+      <link>/publication/keller-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/keller-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging US Army Administrative Data for Individual and Team Performance</title>
+      <link>/publication/goldstein-2018-leveraging/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/goldstein-2018-leveraging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an in silico Experimental Platform for Air Quality: Houston, TX as a Case Study</title>
+      <link>/publication/pires-2015-towards/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/pires-2015-towards/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

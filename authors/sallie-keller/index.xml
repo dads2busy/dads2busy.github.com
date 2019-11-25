@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sallie Keller | Aaron D. Schroeder</title>
+    <link>/authors/sallie-keller/</link>
+      <atom:link href="/authors/sallie-keller/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sallie Keller</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Sallie Keller</title>
+      <link>/authors/sallie-keller/</link>
+    </image>
+    
+    <item>
+      <title>Harnessing the power of data to support community-based research</title>
+      <link>/publication/keller-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/keller-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Evolution of Data Quality: Understanding the Transdisciplinary Origins of Data Quality Concepts and Approaches</title>
+      <link>/publication/keller-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/keller-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an in silico Experimental Platform for Air Quality: Houston, TX as a Case Study</title>
+      <link>/publication/pires-2015-towards/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/pires-2015-towards/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

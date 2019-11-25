@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Barry Steinberg | Aaron D. Schroeder</title>
+    <link>/authors/barry-steinberg/</link>
+      <atom:link href="/authors/barry-steinberg/index.xml" rel="self" type="application/rss+xml" />
+    <description>Barry Steinberg</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Barry Steinberg</title>
+      <link>/authors/barry-steinberg/</link>
+    </image>
+    
+    <item>
+      <title>Rapid Fire Talks</title>
+      <link>/publication/hirsch-2018-rapid/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/hirsch-2018-rapid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

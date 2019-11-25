@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L.M. Lane | Aaron D. Schroeder</title>
+    <link>/authors/l.m.-lane/</link>
+      <atom:link href="/authors/l.m.-lane/index.xml" rel="self" type="application/rss+xml" />
+    <description>L.M. Lane</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 1996 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>L.M. Lane</title>
+      <link>/authors/l.m.-lane/</link>
+    </image>
+    
+    <item>
+      <title>To Politicize Is Not to Control: The Pathologies of Control in Federal Emergency Management</title>
+      <link>/publication/schroeder-1996/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>/publication/schroeder-1996/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

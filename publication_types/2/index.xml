@@ -5,7 +5,7 @@
     <link>/publication_types/2/</link>
       <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>2</title>
@@ -13,24 +13,127 @@
     </image>
     
     <item>
-      <title>An example journal article</title>
-      <link>/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
+      <title>To Politicize is Not to Control</title>
+      <link>/post/to-politicize-is-not-to-control/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/post/to-politicize-is-not-to-control/</guid>
+      <description>
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
 
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+
 </description>
+    </item>
+    
+    <item>
+      <title>Record Linkage Reconciliation of Arlington Department of Human Services Administrative Data Using Potts Models</title>
+      <link>/publication/crandell-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/crandell-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harnessing the power of data to support community-based research</title>
+      <link>/publication/keller-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/keller-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting postsecondary trajectories in Virginia high schools using publicly available data</title>
+      <link>/publication/schroeder-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/schroeder-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapid Fire Talks</title>
+      <link>/publication/hirsch-2018-rapid/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/hirsch-2018-rapid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Evolution of Data Quality: Understanding the Transdisciplinary Origins of Data Quality Concepts and Approaches</title>
+      <link>/publication/keller-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/keller-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can Administrative Housing Data Replace Survey Data?</title>
+      <link>/publication/molfino-2017-can/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/molfino-2017-can/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does Big Data Change the Privacy Landscape? A Review of the Issues</title>
+      <link>/publication/schroeder-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/schroeder-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New data on child care subsidy programs</title>
+      <link>/publication/spears-2012-new/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/spears-2012-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pad and Chaff: Secure approximate string matching in private record linkage</title>
+      <link>/publication/schroeder-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/schroeder-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhanced Night Visibility Series, Volume II: Overview of Phase I and Development of Phase II Experimental Plan</title>
+      <link>/publication/dingus-2005-enhanced/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/dingus-2005-enhanced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The evolution of emergency management in America: From a painful past to a promising but uncertain future</title>
+      <link>/publication/schroeder-2001-evolution/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/schroeder-2001-evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network organizational development in the public sector: A case study of the Federal Emergency Management Administration (FEMA)</title>
+      <link>/publication/schroeder-2000/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/schroeder-2000/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To Politicize Is Not to Control: The Pathologies of Control in Federal Emergency Management</title>
+      <link>/publication/schroeder-1996/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>/publication/schroeder-1996/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Political Roots of Hating Government.</title>
+      <link>/publication/aaron-schroeder-55551068/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>/publication/aaron-schroeder-55551068/</guid>
+      <description></description>
     </item>
     
   </channel>

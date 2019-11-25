@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vicki L Neale | Aaron D. Schroeder</title>
+    <link>/authors/vicki-l-neale/</link>
+      <atom:link href="/authors/vicki-l-neale/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vicki L Neale</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Vicki L Neale</title>
+      <link>/authors/vicki-l-neale/</link>
+    </image>
+    
+    <item>
+      <title>Enhanced Night Visibility Series, Volume II: Overview of Phase I and Development of Phase II Experimental Plan</title>
+      <link>/publication/dingus-2005-enhanced/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/dingus-2005-enhanced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigation of user stereotypes and preferences</title>
+      <link>/publication/neale-1999-investigation/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/neale-1999-investigation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

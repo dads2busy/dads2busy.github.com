@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katherine Ensor | Aaron D. Schroeder</title>
+    <link>/authors/katherine-ensor/</link>
+      <atom:link href="/authors/katherine-ensor/index.xml" rel="self" type="application/rss+xml" />
+    <description>Katherine Ensor</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Katherine Ensor</title>
+      <link>/authors/katherine-ensor/</link>
+    </image>
+    
+    <item>
+      <title>Towards an in silico Experimental Platform for Air Quality: Houston, TX as a Case Study</title>
+      <link>/publication/pires-2015-towards/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/pires-2015-towards/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

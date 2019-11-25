@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> others | Aaron D. Schroeder</title>
+    <link>/authors/others/</link>
+      <atom:link href="/authors/others/index.xml" rel="self" type="application/rss+xml" />
+    <description> others</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title> others</title>
+      <link>/authors/others/</link>
+    </image>
+    
+    <item>
+      <title>Leveraging US Army Administrative Data for Individual and Team Performance</title>
+      <link>/publication/goldstein-2018-leveraging/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/goldstein-2018-leveraging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapid Fire Talks</title>
+      <link>/publication/hirsch-2018-rapid/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/hirsch-2018-rapid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhanced Night Visibility Series, Volume II: Overview of Phase I and Development of Phase II Experimental Plan</title>
+      <link>/publication/dingus-2005-enhanced/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/dingus-2005-enhanced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I-81 ITS program evaluation framework</title>
+      <link>/publication/baker-200381/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/baker-200381/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transportation data clearinghouse</title>
+      <link>/publication/schroeder-2003-transportation/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/schroeder-2003-transportation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
